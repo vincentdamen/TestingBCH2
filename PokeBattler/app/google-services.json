@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744295181384",
+    "firebase_url": "https://pokebattler-2c723.firebaseio.com",
+    "project_id": "pokebattler-2c723",
+    "storage_bucket": "pokebattler-2c723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744295181384:android:c24f4da30c68c33c",
+        "android_client_info": {
+          "package_name": "com.example.vincent.pokebattler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744295181384-pt4j6b1jeinur3sc218gdf183m6ufe2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vincent.pokebattler",
+            "certificate_hash": "24a92f545729e43385482843900567823ef66403"
+          }
+        },
+        {
+          "client_id": "744295181384-5btfqi5hp2k9mlpr505v7vj4pn3jrjel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDAl95Bb_FuDGKleli3tceLOc2i4sR4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744295181384-5btfqi5hp2k9mlpr505v7vj4pn3jrjel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
